@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Hammersmith+One' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+		<title>Futurama.com</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+		<link rel="icon" type="image/x-icon" href="images/fav.ico"/>
+	</head>
+	<body>
+		
+		<div class="background"></div>
+		
+		<header>
+				<a href="https://twitter.com/search?q=futurama&src=tyah"target="_blank"><img src="https://www.webceo.com/blog/wp-content/uploads/2015/11/twitter.jpg" height="50px" width="50px" align="left"></a>
+				<a href="https://www.facebook.com/Futurama/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2000px-Facebook_icon.svg.png" height="50px" width="50px" align="left"></a>
+				Futurama.com
+				<a href="https://twitter.com/search?q=futurama&src=tyah"target="_blank"><img src="https://www.webceo.com/blog/wp-content/uploads/2015/11/twitter.jpg" height="50px" width="50px" align="right"></a>
+				<a href="https://www.facebook.com/Futurama/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2000px-Facebook_icon.svg.png" height="50px" width="50px" align="right"></a>
+		</header>
+		
+		<div class="main">
+
+			<nav>
+				<a href="index.html"><img src="https://lh6.googleusercontent.com/-MvJAkeIHqGI/AAAAAAAAAAI/AAAAAAAAAEw/HHnDyjBaspE/photo.jpg" alt="Fry Bubble" height="150px" width="150px"><a/>
+				<P>
+					<a href="">Home</a>
+				</P>
+				<br/>
+				<a href="aboutme.html"><img src="http://findicons.com/files/icons/1316/futurama_vol_1/256/hermes.png" alt="Hermes Bubble" height="150px" width="150px"><a/>
+				<p>
+					<a href="aboutme.html">About Us</a>
+				</p>
+				<br/>
+				<a href="gallery.html"><img src="http://findicons.com/files/icons/1316/futurama_vol_1/256/zoidberg.png" alt="Zoidberg Bubble" height="150px" width="150px"><a/>
+				<P>
+					<a href="gallery.html">Gallery</a>
+				</p>
+				<br/>
+			</nav>
+			
+			<div class="content">
+		 		<img src="http://vignette4.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042" alt="Fry Dancing" width="150xp" height="250xp" align="left">
+				<img src="http://vignette1.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png/revision/latest?cb=20150218013044" alt="Leela" width="150xp" height="250xp" align="right">
+				<p>
+					<h1> Home </h1> 
+					<p>
+						Welcome to the futurama.com home page! 
+					</p>
+					<p>
+						Futurama is a Science Fiction sitcom created by Matt Groening and David X. Cohen. 
+						The series follows the adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, 
+						after being accidentally cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary 
+						delivery company in the 31st century. The series was created by Groening in the late 1990s while working 
+						on The Simpsons, later bringing Cohen aboard to develop storylines and characters to pitch the show to Fox.
+					</p>
+					<p>
+						The series aired on Fox from March 28th 1999, to August 10th 2003, before being cancelled. 
+						It was brought back in 2008 as four direct-to-video films; the last of which was released in early 2009. 
+						Comedy Central entered into an agreement with 20th Century Fox Television to license the existing 
+						episodes and air the films as 16 new, half-hour episodes, the fifth season.
+					</p>
+					<p>
+						In June 2009, 20th Century Fox announced that Comedy Central had picked up the show for 26 
+						new, half-hour episodes, which began airing in 2010 and 2011. The show was renewed for a seventh season, 
+						with the first half airing in June 2012 and the second set for early summer 2013. It was later revealed 
+						that the seventh season would be the final season, 
+						as Comedy Central announced that they would not be commissioning 
+						<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/David_X._Cohen_by_Gage_Skidmore_2.jpg" alt="David X. Cohen" width="150xp" height="200xp" align="left">
+						<img src="http://img.thesun.co.uk/aidemitlum/archive/01724/SIMP6_1724859a.jpg" alt="Matt Groening" width="150xp" height="200xp" align="right">
+						any further episodes. The series finale aired on September 4, 2013, officially ending the series. While Groening 
+						has said he will try to get it picked up by another network, David X. Cohen stated that the episode "Meanwhile" 
+						would be the last episode of season 7 and also the series finale.
+					</p>				
+				</p>
+			</div>
+
+			<nav>
+				<br/>
+					<a href="characters.html"><img src="http://seznam.github.io/CVUT/A0M33KAJ/prednasky/01/img/Farnsworth.png" alt="Hubert Bubble" height="135px" width="135px"></a>
+				<p>
+					<a href="characters.html">Characters</a>
+				</p>
+				<br/>
+					<a href="cast.html"><img src="http://findicons.com/files/icons/1316/futurama_vol_1/256/amy.png" alt="Amy Bubble" height="135px" width="135px"></a>
+				<p>
+					<a href="cast.html">Game</a>
+				</p>
+				<br/>
+					<a href="episodes.html"><img src="http://findicons.com/files/icons/1316/futurama_vol_1/256/leela.png" alt="Leela Bubble" height="135px" width="135px"></a>
+				<P>
+					<a href="episodes.html">Episode List</a>
+				</p>
+				
+				<br/>
+			</nav>
+		</div>
+		
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		
+		<footer>	
+			<div class="footer">		
+				<a href="">Home</a>	
+				-
+				<a href="aboutme.html">About Us</a>
+				-	
+				<a href="gallery.html">Gallery</a>
+				-	
+				<a href="characters.html">Characters</a>
+				-		
+				<a href="cast.html">Game</a>
+				-		
+				<a href="episodes.html">Episode List</a>
+			</div>
+		</footer>
+	</body>
+</html>
