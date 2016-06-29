@@ -1,0 +1,97 @@
+a {
+	color:white;
+	transition: 1s;
+	font-size:21px;
+	text-decoration:none;	
+	font-family: 'Hammersmith One', sans-serif;
+	text-align: center;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:red;
+}
+
+a:active{
+	color:rose;
+}
+
+header{
+	font-family:'Candal', sans-serif;
+	color:#FF3B3B;
+	font-size:20px;
+	text-align:center;
+	height: 200px;
+	background-color:rgba(56, 56, 114, 0.85);
+	margin:10px;
+	padding:10px;
+}
+
+h1 {
+	width:100%;
+	text-align:center; 
+	color:red;
+}
+
+body{
+	margin: 0;
+}
+
+nav {
+	font-family: 'Hammersmith One', sans-serif;
+	width:24%; 
+	height:700px;
+	float: left; 
+	margin: 0 0.75% 0 0.75%;
+	background-color:rgba(56, 56, 114, 0.85);
+}
+
+.content{
+	width: 99%;
+	height: 700px;
+	background-color:rgba(56, 56, 114, 0.85);
+	height: 30px;
+	margin:10px;
+	padding:30px;	
+}
+
+.gallery img{
+	display:inline-block;
+	width: 19%;
+}
+
+p{
+	color: white;
+}
+
+.background{
+	background-image:url(../images/futurama_two.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:100%;
+	width:100%;
+	position: fixed;
+	top:0;
+	z-index: -1;
+}
+
+.footer {
+	font-family:'Candal', sans-serif;
+	color:#FFFFFF;
+	font-size:20px;
+	height: 30px;
+	margin:10px;
+	padding:30px;
+	background-color:rgba(56, 56, 114, 0.85);
+	
+}
+
+h3{
+	color:white;
+	font-size:15px;
+}
+
+html, body{
+	height:100%;
+}

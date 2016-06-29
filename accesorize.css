@@ -1,0 +1,102 @@
+a {
+	color:white;
+	transition: 1s;
+	font-size:21px;
+	text-decoration:none;	
+	font-family: 'Hammersmith One', sans-serif;
+	text-align: center;
+    margin-right: 1em;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#9AEC22;
+}
+
+a:active{
+	color:rose;
+}
+
+header{
+    font-family:'Candal', sans-serif;
+	color:#FF3B3B;
+	Font-size:30px;
+	text-align:center;
+	height: 200px;
+	background-image:url(../images/miley.jpg);
+	margin:10px;
+	padding:30px;
+}
+
+h2 {
+	width:100%;
+	text-align:center; 
+	color:#BB3C84;
+    
+}
+
+body{
+	margin: 0;
+}
+
+nav {
+	font-family: 'Hammersmith One', sans-serif;
+	width:24%; 
+	height:700px;
+	float: left; 
+	margin: 0 0.75% 0 0.75%;
+	background-color:rgba(56, 56, 114, 0.85);
+}
+
+.content{
+	height: 700px;
+	background-color:rgba(169, 218, 70, 0.35);
+	height: 1280px;
+	margin:10px;
+	padding:30px;	
+    font-family: 'Lobster', cursive;
+    font-size:45px;
+}
+
+.gallery img{
+	display:inline-block;
+	width: 19%;
+}
+
+p{
+	color: white;
+}
+
+.background{
+	background-image:url(http://www.freelogovectors.net/wp-content/uploads/2014/07/flower31.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:100%;
+	width:100%;
+	position: fixed;
+	top:0;
+	z-index: -1;
+}
+
+.footer {
+	font-family:'Candal', sans-serif;
+	font-size:20px;
+	height: 20px;
+	margin:10px;
+	padding:30px;
+	background-color:#BB3C84;
+    text-align:center;
+}
+
+h3{
+	color:white;
+	font-size:15px;
+}
+
+html, body{
+	height:100%;
+}
+.access{
+    font-family: 'Lobster', cursive;
+}
